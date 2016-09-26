@@ -1,0 +1,17 @@
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\DAL.dll.config
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\DAL.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\DAL.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\EntityFramework.SqlServerCompact.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\ModelsLib.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\System.Data.SqlServerCe.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\ModelsLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\x86\Release\EntityFramework.SqlServerCompact.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\x86\Release\DAL.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\x86\Release\DAL.pdb

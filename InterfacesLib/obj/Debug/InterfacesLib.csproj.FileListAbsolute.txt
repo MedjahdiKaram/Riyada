@@ -1,0 +1,29 @@
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\InterfacesLib.dll.config
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\InterfacesLib.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\InterfacesLib.pdb
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.xml
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\obj\Debug\InterfacesLib.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\InterfacesLib\obj\Debug\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\InterfacesLib.dll.config
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\Debug\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\Debug\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\Debug\InterfacesLib.csprojResolveAssemblyReference.cache
+D:\projects\Riyada\InterfacesLib\bin\Debug\InterfacesLib.dll.config
+D:\projects\Riyada\InterfacesLib\bin\Debug\InterfacesLib.dll
+D:\projects\Riyada\InterfacesLib\bin\Debug\InterfacesLib.pdb
+D:\projects\Riyada\InterfacesLib\bin\Debug\EntityFramework.dll
+D:\projects\Riyada\InterfacesLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\Riyada\InterfacesLib\bin\Debug\EntityFramework.xml
+D:\projects\Riyada\InterfacesLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\Riyada\InterfacesLib\obj\Debug\InterfacesLib.dll
+D:\projects\Riyada\InterfacesLib\obj\Debug\InterfacesLib.pdb
+D:\projects\Riyada\InterfacesLib\obj\Debug\InterfacesLib.csprojResolveAssemblyReference.cache

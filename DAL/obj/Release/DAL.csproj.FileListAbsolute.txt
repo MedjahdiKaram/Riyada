@@ -1,0 +1,17 @@
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\DAL.dll.config
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\DAL.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\DAL.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\EntityFramework.SqlServerCompact.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\ModelsLib.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\System.Data.SqlServerCe.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\ModelsLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Release\EntityFramework.SqlServerCompact.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\Release\DAL.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\Release\DAL.pdb

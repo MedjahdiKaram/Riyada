@@ -1,0 +1,48 @@
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\DAL.dll.config
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\DAL.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\DAL.pdb
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\EntityFramework.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\InterfacesLib.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\ModelsLib.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\InterfacesLib.pdb
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\ModelsLib.pdb
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\EntityFramework.xml
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\obj\Debug\DAL.dll
+C:\Users\MohammedKaram\Documents\Visual Studio 2013\Projects\test\Ophtalmo\DAL\obj\Debug\DAL.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\DAL.dll.config
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\DAL.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\DAL.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\ModelsLib.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\ModelsLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\Debug\DAL.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\obj\Debug\DAL.pdb
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\System.Data.SqlServerCe.dll
+D:\projects\Ophtalmo\Ophtalmo\DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\projects\Riyada\DAL\bin\Debug\DAL.dll.config
+D:\projects\Riyada\DAL\bin\Debug\DAL.dll
+D:\projects\Riyada\DAL\bin\Debug\DAL.pdb
+D:\projects\Riyada\DAL\bin\Debug\EntityFramework.dll
+D:\projects\Riyada\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\Riyada\DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\projects\Riyada\DAL\bin\Debug\InterfacesLib.dll
+D:\projects\Riyada\DAL\bin\Debug\ModelsLib.dll
+D:\projects\Riyada\DAL\bin\Debug\System.Data.SqlServerCe.dll
+D:\projects\Riyada\DAL\bin\Debug\InterfacesLib.pdb
+D:\projects\Riyada\DAL\bin\Debug\ModelsLib.pdb
+D:\projects\Riyada\DAL\bin\Debug\EntityFramework.xml
+D:\projects\Riyada\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\Riyada\DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\projects\Riyada\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\projects\Riyada\DAL\obj\Debug\DAL.dll
+D:\projects\Riyada\DAL\obj\Debug\DAL.pdb

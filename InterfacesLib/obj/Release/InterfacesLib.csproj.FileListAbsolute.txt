@@ -1,0 +1,10 @@
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\InterfacesLib.dll.config
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\EntityFramework.SqlServer.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\Release\EntityFramework.SqlServer.xml
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\Release\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\Release\InterfacesLib.csprojResolveAssemblyReference.cache

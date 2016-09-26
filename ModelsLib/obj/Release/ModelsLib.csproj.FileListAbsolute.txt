@@ -1,0 +1,10 @@
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\ModelsLib.dll.config
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\ModelsLib.dll
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\ModelsLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\bin\Release\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\obj\Release\ModelsLib.csprojResolveAssemblyReference.cache
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\obj\Release\ModelsLib.dll
+D:\projects\Ophtalmo\Ophtalmo\ModelsLib\obj\Release\ModelsLib.pdb

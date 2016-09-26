@@ -1,0 +1,9 @@
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\InterfacesLib.dll.config
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\InterfacesLib.pdb
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\EntityFramework.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\EntityFramework.xml
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\x86\Release\InterfacesLib.dll
+D:\projects\Ophtalmo\Ophtalmo\InterfacesLib\obj\x86\Release\InterfacesLib.pdb

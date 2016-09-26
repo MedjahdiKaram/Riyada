@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riyada", "Riyada\Riyada.csproj", "{A3685AFF-91D3-4104-AA63-A6226AA6C544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{453C3793-95C0-4BC5-A0D8-205EC737FD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesLib", "InterfacesLib\InterfacesLib.csproj", "{F1C2939B-6963-43E1-A36C-59229B42E206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsLib", "ModelsLib\ModelsLib.csproj", "{0F07EFA2-0A12-4915-8400-223D224F0077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{50557E76-0B49-4AC8-A6F3-EC0529C0F024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Debug|x86.Build.0 = Debug|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Release|x86.ActiveCfg = Release|Any CPU
+		{A3685AFF-91D3-4104-AA63-A6226AA6C544}.Release|x86.Build.0 = Release|Any CPU
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Debug|x86.ActiveCfg = Debug|x86
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Debug|x86.Build.0 = Debug|x86
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Release|x86.ActiveCfg = Release|x86
+		{453C3793-95C0-4BC5-A0D8-205EC737FD83}.Release|x86.Build.0 = Release|x86
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Debug|x86.ActiveCfg = Debug|x86
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Debug|x86.Build.0 = Debug|x86
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Release|x86.ActiveCfg = Release|x86
+		{F1C2939B-6963-43E1-A36C-59229B42E206}.Release|x86.Build.0 = Release|x86
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Debug|x86.ActiveCfg = Debug|x86
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Debug|x86.Build.0 = Debug|x86
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Release|x86.ActiveCfg = Release|x86
+		{0F07EFA2-0A12-4915-8400-223D224F0077}.Release|x86.Build.0 = Release|x86
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Debug|x86.Build.0 = Debug|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Release|x86.ActiveCfg = Release|Any CPU
+		{50557E76-0B49-4AC8-A6F3-EC0529C0F024}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://medjahdikaram.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InterfacesLib\\InterfacesLib.csproj
+		SccProjectName1 = InterfacesLib
+		SccLocalPath1 = InterfacesLib
+		SccProjectUniqueName2 = ModelsLib\\ModelsLib.csproj
+		SccProjectName2 = ModelsLib
+		SccLocalPath2 = ModelsLib
+		SccProjectUniqueName3 = DAL\\DAL.csproj
+		SccProjectName3 = DAL
+		SccLocalPath3 = DAL
+		SccProjectUniqueName4 = Riyada\\Riyada.csproj
+		SccProjectName4 = Riyada
+		SccLocalPath4 = Riyada
+		SccProjectUniqueName5 = Runner\\Runner.csproj
+		SccProjectName5 = Runner
+		SccLocalPath5 = Runner
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+﻿<Window x:Class="Riyada.PrintWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Riyada"
+        mc:Ignorable="d"
+        Title="PrintWindow" Height="735.252" Width="969.038" WindowState="Maximized">
+    <Grid DataContext="{Binding Print, Mode=OneWay, Source={StaticResource Locator}}">
+        <FlowDocumentReader  Height="29.7cm"
+    Width="21cm"  >
+            <FlowDocument Name="BigFlowDocument"
+                 PageHeight="29.7cm"
+    PageWidth="21cm"
+
+                >
+                <BlockUIContainer
+                    
+                    >
+                    <ListView ItemsSource="{Binding ClientViews}" Height="29.7cm" Width="21cm">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="10,0" Width="2.5in">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="2*"/>
+                                        <ColumnDefinition Width="3*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="1*"/>
+                                        <RowDefinition Height="1*"/>
+                                        <RowDefinition Height="1*"/>
+                                        <RowDefinition Height="1*"/>
+                                        <RowDefinition Height="1*"/>
+                                    </Grid.RowDefinitions>
+                                    <TextBlock x:Name="textBlock" Grid.ColumnSpan="1" HorizontalAlignment="Left" Height="Auto" Margin="0" Grid.Row="0" TextWrapping="Wrap" Text="{Binding Name}" VerticalAlignment="Top" Width="Auto"/>
+                                    <TextBlock  Grid.ColumnSpan="1" HorizontalAlignment="Left" Height="Auto" Margin="0" Grid.Row="1" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="Auto"/>
+                                    <Rectangle Grid.Row="1" Grid.Column="1" Grid.RowSpan="3"></Rectangle>
+                                    <TextBlock  HorizontalAlignment="Left" Height="Auto" Margin="0" Grid.Row="3" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="Auto"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </BlockUIContainer>
+            </FlowDocument>
+
+        </FlowDocumentReader>
+        <Button Content="print" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="button_Click"></Button>
+    </Grid>
+</Window>
